@@ -1,0 +1,53 @@
+{
+    "/index": {
+        "id": "no"
+    },
+    "/C/merchant/list": {
+        "id": "no"
+    },
+    "/hdBack/menu": {
+        "id": "no"
+    },
+    "/hdBack/menuB": {
+        "id": "no"
+    },
+    "/B/counter/main": {
+        "id": "no"
+    },
+    "/B/counter/mainList": {
+        "id": "no"
+    },
+    "/B/counter": {
+        "id": "no"
+    },
+    "/B/counter/checkout": {
+        "id": "no"
+    },
+	"/B/counter/package": {
+        "id": "no"
+    },
+	"/B/counter/sellRecords": {
+        "id": "no"
+    },
+	"/B/counter/refund": {
+        "id": "no"
+    },
+	"/B/package/list": {
+        "id": "no"
+    },
+	"/B/package/info": {
+        "id": "no"
+    },
+	"/B/package/edit": {
+        "id": "no"
+    },
+	"/B/package/redeemList": {
+        "id": "no"
+    },
+	"/B/package/sells": {
+        "id": "no"
+    },
+	"/B/package/redeemRecord": {
+        "id": "no"
+    }
+}

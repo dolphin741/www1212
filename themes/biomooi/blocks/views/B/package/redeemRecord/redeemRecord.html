@@ -1,0 +1,24 @@
+﻿客戶姓名：AAA<br/>
+年齡：30<br/>
+性別：女<br/>
+電話：0911111111<br/>
+<br/>
+
+<table class="table">
+	<tr>
+		<th colspan="3">包卡消費紀錄</th>
+	</tr>
+	<tr>
+		<td>日期</td>
+		<td>美容師</td>
+		<td>消費總額</td>
+	</tr>
+	<%for(var item in value.list){%>
+		<tr>
+			<td><%= item.date%></td>
+			<td><%= item.name%></td>
+			<td><%= item.money%></td>
+		</tr>
+	<%}%>
+	
+</table>
